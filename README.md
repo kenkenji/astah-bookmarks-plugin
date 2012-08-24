@@ -12,6 +12,7 @@ Astah UML and Professional 6.6 or later
 Description
 ----------------
 クラス、ノートなどの図の要素に対して、ブックマークを付けて表示を切り替えることができます。
+![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/ViewImage.png)
 
 How to install
 ----------------
@@ -22,15 +23,18 @@ How to install
 How to use
 ----------------
 基本操作：
+
 1. クラス図のクラスなどを選択状態にします。
-2. メニューより「Add bookmark」をクリックすると一覧に追加されます。
-3.　一覧をクリックすると図の要素が中央に表示されます。
-4. 一覧から削除する場合は、一覧より選択後、メニューの「Remove bookmark」をクリックすると削除されます。
+2. メニューより「![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/tag_blue_add.png)
+Add bookmark」をクリックすると一覧に追加されます。
+3. 一覧をクリックすると図の要素が中央に表示されます。
+4. 一覧から削除する場合は、一覧より選択後、メニューの「![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/tag_blue_delete.png)Remove bookmark」をクリックすると削除されます。
 5. ブックマークデータは、プロジェクトの保存時に.astahファイルに保存されます。
+![How To Use](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/HowToUse.png)
 
 その他：
-・Descriptionを任意に編集することができます。ダブルクリック、または、選択後Enterキーにて編集を行います。
-・左部「▲」「▼」ボタンにて順序を入れ替えることができます。また、Ctrl＋↑キー、Ctrl＋↓キーでも同様な操作となります。
+* Descriptionを任意に編集することができます。ダブルクリック、または、選択後Enterキーにて編集を行います。
+* 左部「▲」「▼」ボタンにて順序を入れ替えることができます。また、Ctrl＋↑キー、Ctrl＋↓キーでも同様な操作となります。
 
 License
 ---------------
