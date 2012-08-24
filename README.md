@@ -3,7 +3,7 @@ Bookmarksプラグイン
 
 Version
 ----------------
-0.9.4
+0.9.5
 
 Available for
 ----------------
@@ -35,6 +35,7 @@ Add bookmark」をクリックすると一覧に追加されます。
 その他：
 * Descriptionを任意に編集することができます。ダブルクリック、または、選択後Enterキーにて編集を行います。
 * 左部「▲」「▼」ボタンにて順序を入れ替えることができます。また、Ctrl＋↑キー、Ctrl＋↓キーでも同様な操作となります。
+* 「![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/table_refresh.png)Refresh」ボタンをクリックすると一覧表を更新します。図の要素が削除されている場合は、一覧からも削除されます。[[BR]]
 
 License
 ---------------
