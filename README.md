@@ -27,7 +27,7 @@ How to use
 3.　一覧をクリックすると図の要素が中央に表示されます。
 4. 一覧から削除する場合は、一覧より選択後、メニューの「Remove bookmark」をクリックすると削除されます。
 5. ブックマークデータは、プロジェクトの保存時に.astahファイルに保存されます。
-![How To Use](https://github.com/kenkenji/astah-bookmarks-plugin/blob/master/doc/screenshots/HowToUse.png)
+![How To Use](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/HowToUse.png)
 
 その他：
 ・Descriptionを任意に編集することができます。ダブルクリック、または、選択後Enterキーにて編集を行います。
