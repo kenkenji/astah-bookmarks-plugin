@@ -21,7 +21,7 @@ How to install
 2. Launch Astah
 3. [Bookmarks] tab appears in the bottom pane
 
-(Instruction in Japanese)
+Below is an instruction in Japanese
 1. Astahのインストールフォルダの下のpluginsフォルダに本プラグインのjarファイルを置きます。
 2. Astahを起動します。
 3. 下部の拡張ビューに[bookmarks]タブが追加されています。
