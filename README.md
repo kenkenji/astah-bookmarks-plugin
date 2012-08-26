@@ -12,6 +12,7 @@ Astah Professional and UML 6.6 or later
 Description
 ----------------
 You are able to bookmark model elements such as Classes, Notes and have them in the list.
+
 クラス、ノートなどの図の要素に対して、ブックマークを付けて表示を切り替えることができます。
 
 How to install
@@ -19,7 +20,7 @@ How to install
 1. Download Astah Bookmark Plug-in and save the "bookmarks-0.9.4.jar" file in the "plug-ins" folder under Astah Installation folder (You can find the .jar file under "target" folder) 
 2. Launch Astah
 3. [Bookmarks] tab appears in the bottom pane
-----------------
+
 1. Astahのインストールフォルダの下のpluginsフォルダに本プラグインのjarファイルを置きます。
 2. Astahを起動します。
 3. 下部の拡張ビューに[bookmarks]タブが追加されています。
@@ -33,7 +34,8 @@ How to use
 5. To remove it from bookmark list, simply select it in the list and click [Remove bookmark] button
 
 This is very useful when you have certain model elements to re-check or when you pass the .asta file to the others with a list of models you want them to check up.
-----------------
+
+
 1. クラス図のクラスなどを選択状態にします。
 2. メニューより「Add bookmark」をクリックすると一覧に追加されます。
 3. 一覧をクリックすると図の要素が中央に表示されます。
