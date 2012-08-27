@@ -1,4 +1,4 @@
-Bookmarksプラグイン
+Astah Bookmark Plug-in
 ===============================
 
 Version
@@ -7,35 +7,28 @@ Version
 
 Available for
 ----------------
-Astah UML and Professional 6.6 or later
+Astah Professional and UML 6.6 or later
 
 Description
 ----------------
-クラス、ノートなどの図の要素に対して、ブックマークを付けて表示を切り替えることができます。
+You are able to bookmark model elements such as Classes, Notes and have them in the list.
 ![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/ViewImage.png)
 
 How to install
 ----------------
-1. Astahのインストールフォルダの下のpluginsフォルダに本プラグインのjarファイルを置きます。
-2. Astahを起動します。
-3. 下部の拡張ビューに[bookmarks]タブが追加されています。
+1. Download Astah Bookmark Plug-in and save the "bookmarks-0.9.5.jar" file in the "plug-ins" folder under Astah Installation folder (You can find the .jar file under "target" folder) 
+2. Launch Astah
+3. [Bookmarks] tab appears in the bottom pane
 
 How to use
 ----------------
-基本操作：
+1. Select a target model you want to bookmark in the diagram
+2. Click [![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/tag_blue_add.png)Add bookmark] button in the [Bookmark] tab in the bottom pane
+3. Bookmarked model elements will be added in the bookmark list
+4. When you select the bookmarked model in the list, it opens the diagrm and the bookmarked model will be shown in the center in the diagram
+5. To remove it from bookmark list, simply select it in the list and click [![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/tag_blue_delete.png)Remove bookmark] button
 
-1. クラス図のクラスなどを選択状態にします。
-2. メニューより「![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/tag_blue_add.png)
-Add bookmark」をクリックすると一覧に追加されます。
-3. 一覧をクリックすると図の要素が中央に表示されます。
-4. 一覧から削除する場合は、一覧より選択後、メニューの「![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/tag_blue_delete.png)Remove bookmark」をクリックすると削除されます。
-5. ブックマークデータは、プロジェクトの保存時に.astahファイルに保存されます。
-![How To Use](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/HowToUse.png)
-
-その他：
-* Descriptionを任意に編集することができます。ダブルクリック、または、選択後Enterキーにて編集を行います。
-* 左部「▲」「▼」ボタンにて順序を入れ替えることができます。また、Ctrl＋↑キー、Ctrl＋↓キーでも同様な操作となります。
-* 「![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/table_refresh.png)Refresh」ボタンをクリックすると一覧表を更新します。図の要素が削除されている場合は、一覧からも削除されます。[[BR]]
+This is very useful when you have certain model elements to re-check or when you pass the .asta file to the others with a list of models you want them to check up.
 
 License
 ---------------
