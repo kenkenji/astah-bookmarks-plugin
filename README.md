@@ -1,5 +1,6 @@
 Astah Bookmark Plug-in
 ======================
+![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/Astah_Bookmark_Plugin.png)
 
 Version
 ----------------
@@ -12,7 +13,6 @@ Astah Professional and UML 6.6 or later
 Description
 ----------------
 You are able to bookmark model elements such as Classes, Notes and have them in the list.
-![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/Astah_Bookmark_Plugin.png)
 
 How to install
 ----------------
