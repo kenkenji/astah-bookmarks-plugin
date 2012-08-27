@@ -1,5 +1,5 @@
 Astah Bookmark Plug-in
-===============================
+======================
 
 Version
 ----------------
@@ -16,7 +16,7 @@ You are able to bookmark model elements such as Classes, Notes and have them in 
 
 How to install
 ----------------
-1. Download Astah Bookmark Plug-in and save the "bookmarks-0.9.5.jar" file in the "plug-ins" folder under Astah Installation folder (You can find the .jar file under "target" folder) 
+1. Download Astah Bookmark Plug-in and save the "bookmarks-0.9.5.jar" file in the "plug-ins" folder under Astah Installation folder (You can find the .jar file under "target" folder)
 2. Launch Astah
 3. [Bookmarks] tab appears in the bottom pane
 
