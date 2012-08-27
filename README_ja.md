@@ -12,6 +12,7 @@ Astah UML and Professional 6.6 or later
 Description
 ----------------
 クラス、ノートなどの図の要素に対して、ブックマークを付けて表示を切り替えることができます。
+![Sample Image](https://github.com/kenkenji/astah-bookmarks-plugin/raw/master/doc/screenshots/Astah_Bookmark_Plugin_jp.png)
 
 How to install
 ----------------
